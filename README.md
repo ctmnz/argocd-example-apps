@@ -20,5 +20,8 @@ to explore ArgoCD and GitOps!
 | [blue-green](blue-green/) | Demonstrates how to implement blue-green deployment using [Argo Rollouts](https://github.com/argoproj/argo-rollouts)
 | [apps](apps/) | An app composed of other apps |
 
-(Small change)
-(Antoher small change)
+Additional Notes:
+1.
+2.
+3.
+
