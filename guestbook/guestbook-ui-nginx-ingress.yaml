@@ -10,7 +10,7 @@ metadata:
       #    nginx.ingress.kubernetes.io/backend-protocol: "HTTPS"
 spec:
   rules:
-  - host: gestbook.127.0.0.1.nip.io
+  - host: guestbook.127.0.0.1.nip.io
     http:
       paths:
       - path: /
