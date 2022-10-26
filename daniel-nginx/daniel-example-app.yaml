@@ -44,7 +44,7 @@ spec:
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: daniel-app-ingress
+  name: daniel-nginx-ingress
   namespace: just-testing
   annotations:
     kubernetes.io/ingress.class: nginx
