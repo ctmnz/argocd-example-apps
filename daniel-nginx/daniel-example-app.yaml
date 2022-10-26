@@ -14,7 +14,7 @@ metadata:
     app: daniel-app-label
   namespace: just-testing
 spec:
-  replicas: 4
+  replicas: 2
   selector:
     matchLabels:
       app: daniel-app-label
