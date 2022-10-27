@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: daniel
-        image: ctmnz/simpleapp:osx
+        image: ctmnz/simpleapp:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
